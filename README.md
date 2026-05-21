@@ -1,90 +1,44 @@
-# 💫 About Me
-- 🎓 Computer Engineering student at SIIT, Thammasat University (Class of 2026)
-- 🛡️ Interested in cybersecurity, low-level system work, and making computers do weird but useful things
-- 🤖 Also into AI/ML, robotics (JetBot / Jetson Nano), and random hardware experiments
-- 🧪 I like breaking things (ethically), then building tools to detect or fix them
-- 🎮 Off-duty: PC hardware nerd, TFT enjoyer, and professional “tweak every setting” person
+# 💫 Teerachot Khusuwan
+**Software Developer (R&D) | Computer Engineering, SIIT**
+
+Welcome to my GitHub! I am a software developer with a strong focus on backend architecture, system automation, and research & development. I enjoy bridging the gap between low-level hardware interactions and robust web applications, as well as building tools that streamline complex processes. 
+
+### 🧑‍💻 About Me
+- 🎓 **Education:** Computer Engineering at SIIT, Thammasat University.
+- 💼 **Current Focus:** Full-stack development with C#, .NET 8.0, and ASP.NET Core MVC, alongside building automated macOS workflows.
+- 🛡️ **Interests:** Cybersecurity, AI/ML applications, robotics (JetBot / Jetson Nano), and low-level system design.
+- 🧪 **Approach:** I believe in breaking things down to understand them ethically, then engineering robust, scalable solutions to fix them.
 
 ---
 
-## 🌐 Socials
-<p align="center">
-  <a href="https://facebook.com/ham.khu03"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-  <a href="https://instagram.com/ham._.trc"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+### 🌐 Let's Connect
+<p align="left">
   <a href="https://linkedin.com/in/teerachot-khusuwan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:teerachot.khusuwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://facebook.com/ham.khu03"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+### 💻 Core Technologies
 
-### 🧑‍💻 Languages
+**Languages & Frameworks**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 🧰 Frameworks, Platforms & Libraries
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
-
-### 🧠 ML / DL
+**AI, ML & Data**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
-
-### 🗄️ Big Data & Databases
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
 
-### 🖥️ Servers & Backend Tools
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)
+**Infrastructure, IoT & Tools**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-%23171717.svg?style=flat&logo=ffmpeg&logoColor=5cb85c)
-
-### 🔧 IoT
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white)
-
-### 🎨 Design / Docs
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-
-### 🎮 Extras
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HamGNX&theme=dark&hide_border=true"/>
-  <br/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
